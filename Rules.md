@@ -18,6 +18,7 @@
 * Griefing a large area
 * Hacking (Xray, Kill aura, etc.)
 * Abusing Exploits and bugs
+* Advertising of any kind
 
 # Allowed Clients And Mods
 There are many clients and mods out there,
